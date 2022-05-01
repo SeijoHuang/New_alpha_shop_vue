@@ -177,7 +177,6 @@ export default {
     .item-img{
       flex-basis: 100px;
       flex-shrink: 0;
-      // width: 100px;
       height: 100px;
       img{
         width: 100%;

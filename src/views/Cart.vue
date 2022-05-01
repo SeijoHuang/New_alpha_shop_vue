@@ -42,9 +42,6 @@
       </section>
       
     </div>
-    
-    
-
   </main>
 </template>
 <script>

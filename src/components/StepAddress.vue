@@ -52,7 +52,6 @@
     
   </div>
 
-    <!-- <h1>{{$route.params.step}}</h1> -->
   </main>
 </template>
 <script>
